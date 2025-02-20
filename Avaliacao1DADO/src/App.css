@@ -1,0 +1,22 @@
+.container-app{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: hsla(141, 54%, 86%, 1);
+
+  background-color: rgb(46, 0, 0);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#caefd7", endColorstr="#f5bfd7", GradientType=1 );
+}
+
+.emoji{
+  width: 90vw;
+  height: 90vw;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 190px;
+}
+

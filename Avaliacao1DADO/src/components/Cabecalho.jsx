@@ -1,10 +1,13 @@
-import React from 'react'
-import './Cabecalho.css'
+import React from 'react';
+import './Cabecalho.css';
 
 function Cabecalho() {
   return (
-    <div className='titulo-container'>Leãozinho (não é uma cópia do tigrinho... eu acho)</div>
-  )
+    <div className='cabecalho-container'>
+      <h1 className='titulo'>Rola os dado aí </h1>
+      <h2 className='titulo'>no d20 eu n achei ícones =(</h2>
+    </div>
+  );
 }
 
-export default Cabecalho
+export default Cabecalho;
